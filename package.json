@@ -1,0 +1,11 @@
+{
+  "name": "eleventy-recipes",
+  "version": "0.1.0",
+  "description": "An eleventy starter for a recipe website.",
+  "keywords": ["ssg", "11ty", "eleventy"],
+  "author": "Nathan Rivière",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
