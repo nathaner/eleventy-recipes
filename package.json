@@ -4,6 +4,9 @@
   "description": "An eleventy starter for a recipe website.",
   "keywords": ["ssg", "11ty", "eleventy"],
   "author": "Nathan Rivière",
+  "scripts": {
+      "start": "eleventy --serve"
+  },
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1"
