@@ -2,3 +2,12 @@ body {
     width: 40%;
     margin: auto;
 }
+
+header {
+    min-height: 4rem;
+}
+
+footer {
+    font-size: 0.9rem;
+    text-align: center;
+}
