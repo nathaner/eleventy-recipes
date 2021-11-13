@@ -2,10 +2,14 @@
   "name": "eleventy-recipes",
   "version": "0.1.0",
   "description": "An eleventy starter for a recipe website.",
-  "keywords": ["ssg", "11ty", "eleventy"],
+  "keywords": [
+    "ssg",
+    "11ty",
+    "eleventy"
+  ],
   "author": "Nathan Rivière",
   "scripts": {
-      "start": "eleventy --serve"
+    "start": "eleventy --serve"
   },
   "license": "ISC",
   "devDependencies": {
