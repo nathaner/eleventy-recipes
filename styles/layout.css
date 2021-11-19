@@ -1,10 +1,15 @@
 body {
     width: 40%;
     margin: auto;
+    background-color: hsl(0, 0, 0.70);
 }
 
 header {
-    min-height: 4rem;
+    text-align: center;
+}
+
+h1 {
+    padding: 2rem 0;
 }
 
 footer {

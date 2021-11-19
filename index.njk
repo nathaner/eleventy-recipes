@@ -1,4 +1,14 @@
 ---
 layout: layouts/home.njk
+title: 11ty recipes
 ---
-<h2>Recipes</h2>
+<section>
+    {% for recipe in collections.recipe %}
+    <article>
+        <h2><a href="{{ recipe.url }}">{{ recipe.data.title }}</a></h2>
+        <div>
+            <span>{{ recipe.data.cooking }}</span>
+        </div>
+    </article>
+    {% endfor %}
+</section>

@@ -1,0 +1,8 @@
+{
+    "title": "11ty Recipes",
+    "language": "en",
+    "description": "A static website powered by 11ty to host cooking recipes",
+    "author": {
+        "name": "Nathan Rivière"
+    }
+}
